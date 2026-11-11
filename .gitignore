@@ -1,0 +1,44 @@
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# Secrets and credentials
+.env
+.env.*
+!.env.example
+secrets/
+credentials/
+
+# Large model and binary files
+*.pt
+*.pth
+*.onnx
+*.engine
+*.weights
+
+# Archives
+*.zip
+*.rar
+*.7z
+
+# Temporary generated spreadsheets
+~$*.xlsx
+~$*.xls
