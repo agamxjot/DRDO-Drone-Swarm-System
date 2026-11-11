@@ -19,6 +19,9 @@ The work combines mathematical geometry, state estimation, visualization, and da
 - Multi-agent coordination concepts.
 
 *This repository describes software simulation and research work. It does not establish physical deployment, operational capability, or field validation.*
+## Dashboard Preview
+
+![Tactical Drone Dashboard](dashboard/tactical_drone_dashboard.png)
 
 ## Repository Structure
 
